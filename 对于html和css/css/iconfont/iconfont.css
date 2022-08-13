@@ -1,0 +1,66 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1659848193454') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-diqiu:before {
+  font-size: 16px;
+  content: "\e668";
+  color: #909090;
+}
+
+.icon-github-fill:before {
+  display: inline-block;
+  font-size: 16px;
+  content: "\e885";
+  color: #909090;
+}
+
+.icon-sousuo:before {
+  display: inline-block;
+  font-size: 24px;
+  content: "\eafe";
+
+}
+
+.icon-yanjing:before {
+  display: inline-block;
+  font-size: 18px;
+  width: 25px;
+  height: 25px;
+  text-align: center;
+  line-height: 25px;
+  content: "\e86f";
+  background-color: rgb(225, 239, 255);;
+  border-radius: 100%;
+  color: #7BB9FF;
+}
+
+.icon-weibo:before {
+  display: inline-block;
+  font-size: 16px;
+  content: "\e611";
+  color: #909090;
+}
+
+/* .icon-yangshi_icon_tongyong_rising:before {
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  font-size: 18px;
+  text-align: center;
+  line-height: 25px;
+  
+  background-color: rgb(225, 239, 255);;
+  border-radius: 100%;
+  color: #7BB9FF;
+} */
+
